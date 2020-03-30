@@ -4,6 +4,11 @@
 An app designed for showing the logs of active periods of the user built using react, redux, react-big-calendar and bootstrap for designing. 
 The mock API server for users info is built using Express JS
 
+
+##
+
+![Github Logo](
+
 ## Link
 you can find my app [here](https://user-logs-app.herokuapp.com/)
 
