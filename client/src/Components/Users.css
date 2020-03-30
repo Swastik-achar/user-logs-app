@@ -1,0 +1,26 @@
+.nav {
+  width: 100%;
+  height: 65px;
+  background-color: #4169e1;
+  color: white;
+  font-size: 23px;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: italic;
+}
+h2 {
+  color: white;
+  line-height: 10vh;
+}
+h3 {
+  color: blue;
+  font-family: monospace;
+}
+.Card {
+  cursor: pointer;
+  width: 60%;
+  box-shadow: 5px 10px 10px #a9a9a9;
+}
+.modal-ku {
+  width: 750px;
+}
