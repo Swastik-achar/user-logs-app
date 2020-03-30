@@ -1,7 +1,7 @@
 # user-logs-app
 
 ## Overview
-An app designed for showing the logs of active periods of the user built using react, redux, bootstrap for designing. 
+An app designed for showing the logs of active periods of the user built using react, redux and bootstrap for designing. 
 The mock API server for users info is built using Express JS
 
 ## Link
