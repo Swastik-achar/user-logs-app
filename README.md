@@ -9,6 +9,13 @@ The mock API server for users info is built using Express JS
 
 ![](/images/image_1.png)
 
+## 
+![](/images/image_2.png)
+
+##
+![](/images/image_3)
+
+
 ## Link
 you can find my app [here](https://user-logs-app.herokuapp.com/)
 
