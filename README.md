@@ -43,6 +43,4 @@ npm start
 - Modal contains all the information of the user
 - When clicked on the view calendar button, the logs of that particular user is shown in the calendar
 
-## License
 
-MIT
